@@ -33,6 +33,17 @@ https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-data
 
 > If we can reach 90% accuracy at predicting whether or not a patient has heart disease during thr proof of concept, we will pursue the project
 
+## Some outcomes (others inside the jupyter notebook)
+
+### Data analysis and visualization
+
+### Various model comarision
+
+### Evaluation metrics
+
+### feature importance
+
+
 ## 4. Features
 
 **Data dictionary (for reference)**
