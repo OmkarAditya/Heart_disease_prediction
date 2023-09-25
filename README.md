@@ -74,6 +74,7 @@ https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-data
 ## Some outcomes (others inside the jupyter notebook)
 
 ### Data analysis and visualization
+![data_visualization](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/36e21563-089e-423f-9ef0-c27cff6541c4)
 
 ### Various model comarision
 
