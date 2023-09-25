@@ -33,7 +33,21 @@ https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-data
 
 > If we can reach 90% accuracy at predicting whether or not a patient has heart disease during thr proof of concept, we will pursue the project
 
-## 4. Features
+## 4. Some outcomes (Many others inside the jupyter notebook)
+
+### Data analysis and visualization
+![data_visualization](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/36e21563-089e-423f-9ef0-c27cff6541c4)
+ 
+### Various model comarision
+![model_comparision](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/1e612cd6-34bf-4e49-9f34-d217711416ae)
+
+### Evaluation metrics
+![evaluation](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/f4385add-e381-4b69-b98c-d02800dbae81)
+
+### feature importance
+![feature_importance](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/776f95fe-2b25-44d3-9701-89b5af6447d4)
+
+## 5. Features
 
 **Data dictionary (for reference)**
 
@@ -69,18 +83,3 @@ https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-data
 13. **thal**: 0 = normal; 1 = fixed defect; 2 = reversable defect
 14. **target** - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
-
-
-## Some outcomes (others inside the jupyter notebook)
-
-### Data analysis and visualization
-![data_visualization](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/36e21563-089e-423f-9ef0-c27cff6541c4)
- 
-### Various model comarision
-![model_comparision](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/1e612cd6-34bf-4e49-9f34-d217711416ae)
-
-### Evaluation metrics
-![evaluation](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/f4385add-e381-4b69-b98c-d02800dbae81)
-
-### feature importance
-![feature_importance](https://github.com/OmkarAditya/Heart_disease_prediction/assets/108687318/776f95fe-2b25-44d3-9701-89b5af6447d4)
